@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "recipe-scraper": "^2.1.1"
+  },
+  "name": "web-scaper",
+  "description": "Web Scraper to gather data for Terra Food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John4E656F/Web-Scaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John4E656F/Web-Scaper/issues"
+  },
+  "homepage": "https://github.com/John4E656F/Web-Scaper#readme"
+}
